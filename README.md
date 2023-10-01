@@ -1,4 +1,4 @@
 # Hopfield
-associative memory neural network.
+associative memory neural network
 MERN Stack
  Full Stack Web Development.
