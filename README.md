@@ -1,5 +1,5 @@
 # Hopfield
 associative memory neural network
 MERN Stack
- Full Stack Web Developmen
+ Full Stack Web Developme
 
