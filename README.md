@@ -3,7 +3,7 @@ associative memory neural network
 MERN Stack
  Full Stack Web Developmea
 $1
-&
+
 
 
 
